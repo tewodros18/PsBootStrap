@@ -1,0 +1,11 @@
+.centered {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: aliceblue;
+    font-size:4vw;
+  }
+#homepagepic {
+    clip-path: polygon(0 0, 100% 0, 100% 87%, 50% 100%, 0 88%) ;
+}
